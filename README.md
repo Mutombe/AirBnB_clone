@@ -16,4 +16,4 @@ The project currently only implements the back-end console.
 
 ## Authors:
 * Simbarashe Mutombe <[Simbarashe Mutombe](https://github.com/Mutombe)>
-* ...................<[..........](https://github.com/...........)>
+* Wadzanai Murombedzi<[..........](https://github.com/wadzanaiMurombedzi)>
